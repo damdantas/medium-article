@@ -1,0 +1,60 @@
+
+body {
+  color: #F4F4F8;
+  padding: 0;
+  margin: 0;
+}
+
+.banner {
+  background-image: url(https://source.unsplash.com/random/1000x500);
+  background-size: cover;
+  color: white;
+  padding: 120px 200px;
+}
+
+.banner h1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80px;
+}
+
+.banner p{
+  font-family: 'Roboto', sans-serif;
+  font-size: 45px;
+}
+
+.container {
+  margin: auto;
+  width: 50%;
+}
+
+.card {
+  margin: 30px 0;
+}
+
+.card h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+  color: #8D775F;
+}
+
+.card p {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  text-align: left;
+  
+}
+
+.card a {
+  text-decoration: none;
+  color:black;
+  font-family: 'Tiro Devanagari Hindi', serif;
+  font-size: 30px;
+  background-color: aquamarine;
+  padding: 5px 5px;
+  border-radius: 5px;
+}
+
+.card a:hover {
+  background-color: #CBF7ED;
+}
